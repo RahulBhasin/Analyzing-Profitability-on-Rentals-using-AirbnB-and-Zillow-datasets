@@ -10,7 +10,6 @@ Airbnb wants to buy properties in New York from Zillow listings data for short t
 
 ## What this analysis includes:	
 
-What this analysis includes:
 *	Analyzing data and comparing Neighbourhoods with data visualizations
 *	Comparison of Break-even time and YoY profits for different zipcodes
 *	NYC Zip codes rankings based on various parameters
@@ -26,6 +25,4 @@ What this analysis includes:
 *	Python notebook with data data-preprocessing steps
 *	Final Report containing the insights and recommendations.
 * Tableau Dashboards
-
-*Python notebook was used to perform data-preprocessing. The ![pdf report](https://github.com/RahulBhasin/Analyzing-Profitability-on-Rentals-using-AirbnB-and-Zillow-datasets/blob/master/Airbnb%20-%20Zillow%20Analysis%20Report.pdf) contains the insights and recommendations.
 
