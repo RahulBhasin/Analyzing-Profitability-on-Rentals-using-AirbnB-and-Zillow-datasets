@@ -4,9 +4,9 @@
 
 Airbnb wants to buy properties in New York from Zillow listings data for short term rentals. We have to help Airbnb decide which zip codes would be most profitable to invest in. One assumption made here is that the occupancy rate of Airbnb is 75% and they are interested in buying properties with 2 bedrooms only.
 
-![](Dashboard1.png)
+![](Dashboard_1.png)
 
-![](Dashboard2.png)
+![](Dashboard_2.png)
 
 ## What this analysis includes:	
 
@@ -19,7 +19,7 @@ What this analysis includes:
 ## Datasets Used
 
 *	[Zillow Data](https://www.zillow.com/research/data/) - Provides the price for two-bedroom properties in NYC
-* [Airbnb Data]](http://insideairbnb.com/get-the-data.html) - Provides the rent charged for properties in NYC
+* [Airbnb Data](http://insideairbnb.com/get-the-data.html) - Provides the rent charged for properties in NYC
 
 ## Content
 
